@@ -1,0 +1,10 @@
+{
+  "name": "KKA EduGame - Konten Digital Multimedia",
+  "description": "Game edukasi interaktif mata pelajaran KKA kelas X SMA materi Konten Digital dalam Multimedia: Kiri atau Kanan dan Tangkap Kata.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
